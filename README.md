@@ -73,24 +73,6 @@ Reports aggregate and analyze content from the following RSS feeds, spanning new
 
 ---
 
-## Report Archive
-
-Reports are named by topic and generation date:
-
-```
-threat-report-ransomware-YYYYMMDD-HHmmss.md
-```
-
-Browse the full archive in this repository or use the table below as reports accumulate.
-
-| Date | Report | Key Themes |
-|---|---|---|
-| 2026-03-23 | [Week of Mar 16–23](threat-report-ransomware-20260323-120000.md) | Interlock CVE-2026-20131 zero-day, BYOVD EDR killer commoditization, record-low ransom payment rates |
-| 2026-03-14 | [Week of Mar 07–14](threat-report-ransomware-20260314-120000.md) | *(see report)* |
-| 2026-03-08 | [Week of Mar 01–08](threat-report-ransomware-20260308-120000.md) | *(see report)* |
-
----
-
 ## Methodology
 
 Reports are produced by an automated pipeline that:
